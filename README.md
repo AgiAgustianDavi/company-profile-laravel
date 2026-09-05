@@ -4,8 +4,8 @@
 
 **Website profil perusahaan full-stack** dengan sistem autentikasi, panel admin, dan manajemen konten dinamis (CRUD), dibangun menggunakan Laravel & Blade.
 
-[![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.5%2B-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-13.x-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -83,7 +83,7 @@ Cocok dijadikan referensi/portofolio untuk menunjukkan kemampuan membangun aplik
 
 | Kategori | Teknologi |
 |---|---|
-| **Backend Framework** | [Laravel 11](https://laravel.com) (PHP 8.2+) |
+| **Backend Framework** | [Laravel 13](https://laravel.com) (PHP 8.5) |
 | **Template Engine** | Blade (native Laravel, tanpa Livewire/Vue/React) |
 | **Database** | SQLite |
 | **Frontend Styling** | Bootstrap 5 + Bootstrap Icons (via CDN, tanpa build step) |
@@ -96,7 +96,7 @@ Cocok dijadikan referensi/portofolio untuk menunjukkan kemampuan membangun aplik
 ## 🚀 Cara Instalasi
 
 ### Kebutuhan Sistem
-- PHP >= 8.2
+- PHP >= 8.5
 - Composer
 - Ekstensi PHP: `pdo_sqlite`, `mbstring`, `openssl`, `fileinfo`
 
