@@ -21,8 +21,6 @@ Website ini adalah **studi kasus company profile** yang dibangun dari nol menggu
 - **Sisi publik (frontend)** — halaman informasi perusahaan yang bisa diakses siapa saja
 - **Sisi admin (backend/dashboard)** — panel privat untuk mengelola seluruh konten website tanpa perlu sentuh kode
 
-Cocok dijadikan referensi/portofolio untuk menunjukkan kemampuan membangun aplikasi web full-stack dengan Laravel: routing, autentikasi, relational database, file upload, hingga proteksi akses berbasis role.
-
 ---
 
 ## ✨ Fitur
@@ -51,8 +49,6 @@ Cocok dijadikan referensi/portofolio untuk menunjukkan kemampuan membangun aplik
 
 ## 📸 Screenshot
 
-> _Tambahkan screenshot asli website Anda di sini setelah dijalankan secara lokal. Simpan gambar di folder `docs/screenshots/` lalu ganti path di bawah ini._
-
 | Beranda | Tentang Kami |
 |---|---|
 | ![Beranda](docs/screenshots/home.png) | ![Tentang Kami](docs/screenshots/about.png) |
@@ -64,16 +60,6 @@ Cocok dijadikan referensi/portofolio untuk menunjukkan kemampuan membangun aplik
 | Login | Dashboard Admin |
 |---|---|
 | ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
-
-<details>
-<summary>💡 Cara mengambil screenshot untuk README ini</summary>
-
-1. Jalankan project secara lokal (`php artisan serve`)
-2. Buka setiap halaman di browser, ambil screenshot (Windows: `Win + Shift + S`)
-3. Buat folder `docs/screenshots/` di root project, simpan gambar di sana
-4. Commit & push — gambar akan otomatis tampil di README GitHub
-
-</details>
 
 ---
 
@@ -129,7 +115,7 @@ php artisan storage:link
 php artisan serve
 ```
 
-Buka **http://127.0.0.1:8000** di browser Anda. 🎉
+Buka **http://127.0.0.1:8000** di browser Anda. 
 
 ### 🔑 Akun Default (dari seeder)
 
@@ -167,21 +153,6 @@ routes/
 ```
 
 ---
-
-## 🗺️ Roadmap / Pengembangan Selanjutnya
-
-- [ ] Multi-bahasa (ID/EN)
-- [ ] Testimoni klien (CRUD)
-- [ ] Statistik pengunjung di dashboard
-- [ ] Notifikasi email saat ada pesan masuk baru
-- [ ] Export data pesan masuk ke Excel/PDF
-
----
-
-## 🤝 Kontribusi
-
-Kontribusi, isu, dan permintaan fitur sangat diterima!
-Silakan buka [issue](../../issues) atau kirim [pull request](../../pulls).
 
 ## 📄 Lisensi
 
