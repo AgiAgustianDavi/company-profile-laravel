@@ -10,8 +10,6 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Demo Live](#) · [Laporkan Bug](../../issues) · [Ajukan Fitur](../../issues)
-
 </div>
 
 ---
