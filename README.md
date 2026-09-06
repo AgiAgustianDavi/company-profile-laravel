@@ -21,6 +21,8 @@ Website ini adalah **studi kasus company profile** yang dibangun dari nol menggu
 - **Sisi publik (frontend)** — halaman informasi perusahaan yang bisa diakses siapa saja
 - **Sisi admin (backend/dashboard)** — panel privat untuk mengelola seluruh konten website tanpa perlu sentuh kode
 
+![Demo](docs/screenshots/demo_company_profile.gif)
+
 ---
 
 ## ✨ Fitur
